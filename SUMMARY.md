@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
    * [Motivations](Introduction/motivations.md)
-   * Plotter Overview
+   * [Plotter Overview](plotter_overview.md)
 * id-tools
 
