@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-   * Motivations
+   * [Motivations](Introduction/motivations.md)
 
