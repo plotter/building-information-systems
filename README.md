@@ -1,4 +1,4 @@
-# building-information-systems
+# Building Information Systems
 GitBook - Building Information Systems
 
 ## one
